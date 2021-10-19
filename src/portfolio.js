@@ -12,7 +12,7 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Harikrushn",
+  title2: "Jordan",
   logo_name: "jordan.y()",
   nickname: "harry / picleric",
   full_name: "Jordan Yip",
